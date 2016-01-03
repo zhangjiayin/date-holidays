@@ -1,5 +1,5 @@
 {
-  "version": "2016-01-05",
+  "version": "2016-01-09",
   "license": "CC-BY-SA-3",
   "holidays": {
     "AD": {
@@ -3755,6 +3755,79 @@
         }
       }
     },
+    "GY": {
+      "name": "Guyana",
+      "dayoff": "sunday",
+      "langs": [
+        "en"
+      ],
+      "zones": [
+        "America/Guyana"
+      ],
+      "days": {
+        "01-01": {
+          "_name": "01-01"
+        },
+        "02-23": {
+          "name": {
+            "en": "Republic Day"
+          }
+        },
+        "easter -2": {
+          "_name": "easter -2"
+        },
+        "easter 1": {
+          "_name": "easter 1"
+        },
+        "05-01": {
+          "_name": "05-01"
+        },
+        "05-05": {
+          "name": {
+            "en": "Arrival Day"
+          }
+        },
+        "05-26": {
+          "_name": "Independence Day"
+        },
+        "monday after 07-01": {
+          "name": {
+            "en": "CARICOM Day"
+          }
+        },
+        "08-01": {
+          "name": {
+            "en": "Emancipation Day"
+          }
+        },
+        "12-25": {
+          "_name": "12-25"
+        },
+        "12-26": {
+          "_name": "12-26"
+        },
+        "13 Rabi al-awwal": {
+          "_name": "12 Rabi al-awwal",
+          "name": {
+            "en": "Youman Nabi"
+          },
+          "disable": [
+            "2013-01-24"
+          ],
+          "enable": [
+            "2013-01-23"
+          ],
+          "note": "tentative"
+        },
+        "11 Dhu al-Hijjah": {
+          "_name": "10 Dhu al-Hijjah",
+          "name": {
+            "en": "Eid Ul Azha"
+          },
+          "note": "tentative"
+        }
+      }
+    },
     "HN": {
       "name": "Honduras",
       "dayoff": "sunday",
@@ -6447,7 +6520,7 @@
             "en": "World Religion Day"
           }
         },
-        "Sun Feb 07 2016 21:00:00 GMT-0300 (SRT)": {
+        "Mon Feb 08 2016 13:00:00 GMT+1300 (NZDT)": {
           "name": {
             "nl": "Chinees nieuwjaar",
             "en": "Chinese New Year"
@@ -6457,7 +6530,7 @@
         "02-25": {
           "_name": "Revolution Day"
         },
-        "Tue Mar 22 2016 21:00:00 GMT-0300 (SRT)": {
+        "Wed Mar 23 2016 13:00:00 GMT+1300 (NZDT)": {
           "name": {
             "nl": "Holi",
             "en": "Holi"
@@ -6495,7 +6568,7 @@
             "nl": "Keti-koti"
           }
         },
-        "Wed Aug 17 2016 21:00:00 GMT-0300 (SRT)": {
+        "Thu Aug 18 2016 12:00:00 GMT+1200 (NZST)": {
           "name": {
             "nl": "Raksha Bandham (Rakhi)",
             "_note_": "on the full moon in Sravana"
@@ -6519,7 +6592,7 @@
             "en": "Chinese Immigration"
           }
         },
-        "Wed Oct 19 2016 21:00:00 GMT-0300 (SRT)": {
+        "Thu Oct 20 2016 13:00:00 GMT+1300 (NZDT)": {
           "name": {
             "nl": "Divali",
             "en": "Divali"
@@ -8569,7 +8642,7 @@
       "name": {
         "en": "Eid al-Fitr, Bayram",
         "bs": "Ramazanski bajram",
-        "nl": "Eid al-Fitr, Suikerfeest",
+        "nl": "Suikerfeest (Eid al-Fitr)",
         "sq": "Fitër bajrami",
         "tr": "Bayramı"
       }

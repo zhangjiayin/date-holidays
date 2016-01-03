@@ -2616,6 +2616,72 @@ holidays:
         name:
           en: Lady of Camarin Day
 
+  # @source http://www.moha.gov.gy/images/mediaadvisories/national%20holidays%202015.pdf
+  GY:
+    name: Guyana
+    dayoff: sunday
+    langs:
+      - en
+    zones:
+      - America/Guyana
+    days:
+      01-01:
+        _name: 01-01
+      02-23:
+        name:
+          en: Republic Day
+      easter -2:
+        _name: easter -2
+      easter 1:
+        _name: easter 1
+      05-01:
+        _name: 05-01
+      05-05:
+        name:
+          en: Arrival Day
+      05-26:
+        _name: Independence Day
+      monday after 07-01:
+        name:
+          en: CARICOM Day
+      08-01:
+        name:
+          en: Emancipation Day
+      12-25:
+        _name: 12-25
+      12-26:
+        _name: 12-26
+      # muslim holidays
+      13 Rabi al-awwal:
+        _name: 12 Rabi al-awwal
+        name:
+          en: Youman Nabi
+        disable:
+          - '2013-01-24'
+        enable:
+          - '2013-01-23'
+        note: tentative
+      11 Dhu al-Hijjah:
+        _name: 10 Dhu al-Hijjah
+        name:
+          en: Eid Ul Azha
+        note: tentative
+      # hindu holidays
+      # https://en.wikipedia.org/wiki/Purnima
+      # full moon
+      # ~ '2014-03-17':
+      # ~ '2013-03-27':
+      # ~ '2015-03-06':
+        # ~ name:
+          # ~ en: Phagwah
+      # https://en.wikipedia.org/wiki/Diwali
+      # darkest, new moon night of the Hindu Lunisolar month Kartika
+      # ~ '2015-11-11':
+      # ~ '2014-10-23':
+      # ~ '2013-11-03':
+        # ~ name:
+          # ~ en: Deepavali
+
   # @source http://www.trabajo.gob.hn/transparencia/regulacion/decretos-y-acuerdos-1/resoluciones-2011/REGLAMENTO%20INTERNO%20DE%20TRABAJO%20DE%20%20RESUELVA%20DE%20HONDURAS.pdf ARTICULO 24
   HN:
     name: Honduras
