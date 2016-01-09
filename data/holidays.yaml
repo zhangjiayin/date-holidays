@@ -2667,20 +2667,29 @@ holidays:
           en: Eid Ul Azha
         note: tentative
       # hindu holidays
-      # https://en.wikipedia.org/wiki/Purnima
-      # full moon
-      # ~ '2014-03-17':
-      # ~ '2013-03-27':
-      # ~ '2015-03-06':
-        # ~ name:
-          # ~ en: Phagwah
-      # https://en.wikipedia.org/wiki/Diwali
-      # darkest, new moon night of the Hindu Lunisolar month Kartika
-      # ~ '2015-11-11':
-      # ~ '2014-10-23':
-      # ~ '2013-11-03':
-        # ~ name:
-          # ~ en: Deepavali
+      '2015-03-06':
+        name:
+          en: Phagwah
+        #note: https://en.wikipedia.org/wiki/Purnima
+        #note: hindu calendar required
+      '2014-03-17':
+        name:
+          en: Phagwah
+      '2013-03-27':
+        name:
+          en: Phagwah
+      '2015-11-11':
+        name:
+          en: Deepavali
+        #note: https://en.wikipedia.org/wiki/Diwali
+        #note: darkest, new moon night of the Hindu Lunisolar month Kartika
+        #note: hindu calendar required
+      '2014-10-23':
+        name:
+          en: Deepavali
+      '2013-11-03':
+        name:
+          en: Deepavali
 
   # @source http://www.trabajo.gob.hn/transparencia/regulacion/decretos-y-acuerdos-1/resoluciones-2011/REGLAMENTO%20INTERNO%20DE%20TRABAJO%20DE%20%20RESUELVA%20DE%20HONDURAS.pdf ARTICULO 24
   HN:
@@ -4590,14 +4599,14 @@ holidays:
         name:
           nl: Wereldreligiedag
           en: World Religion Day
-      2016-02-08:
+      '2016-02-08':
         name:
           nl: Chinees nieuwjaar
           en: Chinese New Year
-        _note_: The Chinese year begins on the second new moon after the winter solstice on 21 December
+        #note: The Chinese year begins on the second new moon after the winter solstice on 21 December
       02-25:
         _name: Revolution Day
-      2016-03-23:
+      '2016-03-23':
         name:
           nl: Holi
           en: Holi
@@ -4622,14 +4631,16 @@ holidays:
         _name: Abolition of Slavery
         name:
           nl: Keti-koti
-      2016-08-18:
+      '2016-08-18':
         name:
           nl: Raksha Bandham (Rakhi)
-          _note_: on the full moon in Sravana
-      2016-08-23 +2d:
+        #note: on the full moon in Sravana
+        #note: hindu calendar required
+      '2016-08-23 +2d':
         name:
           nl: Krishna Janamashtmi
-        _note_: the seventh and eighth day of the dark half of the month Bhâdrapada
+        #note: the seventh and eighth day of the dark half of the month Bhâdrapada
+        #note: hindu calendar required
       08-09:
         name:
           nl: Nationale Dag der Inheemsen
@@ -4638,11 +4649,12 @@ holidays:
         name:
           nl: Chinese Immigratie
           en: Chinese Immigration
-      2016-10-20:
+      '2016-10-20':
         name:
           nl: Divali
           en: Divali
-        _note_: New moon of the month of Kartika
+        #note: New moon of the month of Kartika
+        #note: hindu calendar required
       11-25:
         _name: Independence Day
       12-06:

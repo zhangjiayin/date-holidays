@@ -3825,6 +3825,36 @@
             "en": "Eid Ul Azha"
           },
           "note": "tentative"
+        },
+        "2015-03-06": {
+          "name": {
+            "en": "Phagwah"
+          }
+        },
+        "2014-03-17": {
+          "name": {
+            "en": "Phagwah"
+          }
+        },
+        "2013-03-27": {
+          "name": {
+            "en": "Phagwah"
+          }
+        },
+        "2015-11-11": {
+          "name": {
+            "en": "Deepavali"
+          }
+        },
+        "2014-10-23": {
+          "name": {
+            "en": "Deepavali"
+          }
+        },
+        "2013-11-03": {
+          "name": {
+            "en": "Deepavali"
+          }
         }
       }
     },
@@ -6520,17 +6550,16 @@
             "en": "World Religion Day"
           }
         },
-        "Mon Feb 08 2016 13:00:00 GMT+1300 (NZDT)": {
+        "2016-02-08": {
           "name": {
             "nl": "Chinees nieuwjaar",
             "en": "Chinese New Year"
-          },
-          "_note_": "The Chinese year begins on the second new moon after the winter solstice on 21 December"
+          }
         },
         "02-25": {
           "_name": "Revolution Day"
         },
-        "Wed Mar 23 2016 13:00:00 GMT+1300 (NZDT)": {
+        "2016-03-23": {
           "name": {
             "nl": "Holi",
             "en": "Holi"
@@ -6568,17 +6597,15 @@
             "nl": "Keti-koti"
           }
         },
-        "Thu Aug 18 2016 12:00:00 GMT+1200 (NZST)": {
+        "2016-08-18": {
           "name": {
-            "nl": "Raksha Bandham (Rakhi)",
-            "_note_": "on the full moon in Sravana"
+            "nl": "Raksha Bandham (Rakhi)"
           }
         },
         "2016-08-23 +2d": {
           "name": {
             "nl": "Krishna Janamashtmi"
-          },
-          "_note_": "the seventh and eighth day of the dark half of the month Bhâdrapada"
+          }
         },
         "08-09": {
           "name": {
@@ -6592,12 +6619,11 @@
             "en": "Chinese Immigration"
           }
         },
-        "Thu Oct 20 2016 13:00:00 GMT+1300 (NZDT)": {
+        "2016-10-20": {
           "name": {
             "nl": "Divali",
             "en": "Divali"
-          },
-          "_note_": "New moon of the month of Kartika"
+          }
         },
         "11-25": {
           "_name": "Independence Day"
