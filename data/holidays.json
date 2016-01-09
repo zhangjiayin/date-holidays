@@ -6425,6 +6425,130 @@
         }
       }
     },
+    "SR": {
+      "name": "Suriname",
+      "dayoff": "sunday",
+      "langs": [
+        "nl"
+      ],
+      "zones": [
+        "America/Paramaribo"
+      ],
+      "days": {
+        "01-01": {
+          "_name": "01-01"
+        },
+        "01-06": {
+          "_name": "01-06"
+        },
+        "3rd sunday after 01-01": {
+          "name": {
+            "nl": "Wereldreligiedag",
+            "en": "World Religion Day"
+          }
+        },
+        "Sun Feb 07 2016 21:00:00 GMT-0300 (SRT)": {
+          "name": {
+            "nl": "Chinees nieuwjaar",
+            "en": "Chinese New Year"
+          },
+          "_note_": "The Chinese year begins on the second new moon after the winter solstice on 21 December"
+        },
+        "02-25": {
+          "_name": "Revolution Day"
+        },
+        "Tue Mar 22 2016 21:00:00 GMT-0300 (SRT)": {
+          "name": {
+            "nl": "Holi",
+            "en": "Holi"
+          }
+        },
+        "easter -3": {
+          "_name": "easter -3"
+        },
+        "easter -2": {
+          "_name": "easter -2"
+        },
+        "easter": {
+          "_name": "easter"
+        },
+        "easter 39": {
+          "_name": "easter 39",
+          "name": {
+            "nl": "Hemelvaartsdag"
+          }
+        },
+        "easter 49": {
+          "_name": "easter 49"
+        },
+        "05-01": {
+          "_name": "05-01"
+        },
+        "06-05": {
+          "name": {
+            "nl": "Prawas Din (Surinaamse Immigratiedag)"
+          }
+        },
+        "07-01": {
+          "_name": "Abolition of Slavery",
+          "name": {
+            "nl": "Keti-koti"
+          }
+        },
+        "Wed Aug 17 2016 21:00:00 GMT-0300 (SRT)": {
+          "name": {
+            "nl": "Raksha Bandham (Rakhi)",
+            "_note_": "on the full moon in Sravana"
+          }
+        },
+        "2016-08-23 +2d": {
+          "name": {
+            "nl": "Krishna Janamashtmi"
+          },
+          "_note_": "the seventh and eighth day of the dark half of the month Bhâdrapada"
+        },
+        "08-09": {
+          "name": {
+            "nl": "Nationale Dag der Inheemsen",
+            "en": "National Day of Indigenous People"
+          }
+        },
+        "10-20": {
+          "name": {
+            "nl": "Chinese Immigratie",
+            "en": "Chinese Immigration"
+          }
+        },
+        "Wed Oct 19 2016 21:00:00 GMT-0300 (SRT)": {
+          "name": {
+            "nl": "Divali",
+            "en": "Divali"
+          },
+          "_note_": "New moon of the month of Kartika"
+        },
+        "11-25": {
+          "_name": "Independence Day"
+        },
+        "12-06": {
+          "_name": "12-06",
+          "name": {
+            "nl": "Sint Nicolaas"
+          }
+        },
+        "12-25": {
+          "_name": "12-25"
+        },
+        "12-26": {
+          "_name": "12-26"
+        },
+        "2 Shawwal +2d": {
+          "_name": "1 Shawwal"
+        },
+        "11 Dhu al-Hijjah": {
+          "_name": "10 Dhu al-Hijjah"
+        }
+      }
+    },
     "SV": {
       "name": "El Salvador",
       "dayoff": "sunday",
@@ -8445,7 +8569,7 @@
       "name": {
         "en": "Eid al-Fitr, Bayram",
         "bs": "Ramazanski bajram",
-        "nl": "Suikerfeest (Eid al-Fitr)",
+        "nl": "Eid al-Fitr, Suikerfeest",
         "sq": "Fitër bajrami",
         "tr": "Bayramı"
       }
